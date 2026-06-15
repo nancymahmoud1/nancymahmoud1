@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nancy Mahmoud</h1>
 <h3 align="center">Biomedical Engineering Student | AI & Machine Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nancymahmoud1&label=Profile%20Views&color=0e75b6&style=flat" alt="nancymahmoud1" />
-</p>
-
 ---
 
 ## 👩‍💻 About Me
